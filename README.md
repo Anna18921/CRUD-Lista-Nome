@@ -14,14 +14,10 @@ Não contém armazenamento local, a lista fica salva apenas em quanto a aba esti
 Para o desenvolvimento  da atividae é preciso instalar  o nodeJS https://nodejs.org/pt-br/download/
 Utilizei o VScode https://code.visualstudio.com/.
 
-
 Para instalar o live-server : npm live-server após ter instalado o nodeJS. 
-
-Entrar através do terminal no diretório onde está o arquivo index da pagina , executar o comando node live-server.
-Através do VScode é o conjunto de tela ctrl+shift+p e selecionar  Live Server: Open with Live Server. 
 
 Rode o comando npm install live-server após ter instaldo o nodeJS.
 
-Entrar  no diretório através do terminal onde está o arquivo index da página, execute o  comando (node  live-server)
+Entre  no diretório através do terminal onde está o arquivo index da página, execute o  comando (node  live-server)
 
-Com o VScode é o conjunto de tela ctrl+shift+p  e selecione  opção  Live Server: Open with Live Server. 
+Pelo VScode excute  o conjunto de tela ctrl+shift+p  e selecione  opção  Live Server: Open with Live Server. 
